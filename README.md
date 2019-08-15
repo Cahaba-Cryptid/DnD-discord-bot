@@ -1,0 +1,1 @@
+This bot is for my D&D campaign. When asked for "hot goss" Maven will repeat pre-determined text for a quest hook. 

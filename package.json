@@ -1,0 +1,15 @@
+{
+  "name": "maven",
+  "version": "1.0.0",
+  "description": "Maven is here to help! And to maybe spread some hot gossip...",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C.H. Frank",
+  "license": "ISC"
+}
